@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Famicom")(type "KiCad")(uri "${KIPRJMOD}/Famicom.pretty")(options "")(descr ""))
+)
